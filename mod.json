@@ -1,0 +1,24 @@
+{
+	"geode": "4.0.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "yourname.frame-perfect-checker",
+	"name": "Frame Perfect Checker",
+	"version": "v1.0.0",
+	"developer": "yourname",
+	"description": "Record a run that beats a level, then count how many of your inputs are frame perfect.",
+	"settings": {
+		"analysis-speed": {
+			"type": "float",
+			"name": "Analysis speed",
+			"description": "Time scale used while re-simulating the level. Higher is faster but can lag.",
+			"default": 4.0,
+			"min": 1.0,
+			"max": 20.0
+		}
+	}
+}
