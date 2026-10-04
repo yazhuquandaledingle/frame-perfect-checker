@@ -9,7 +9,7 @@
 	"id": "yourname.frame-perfect-checker",
 	"name": "Frame Perfect Checker",
 	"version": "v1.0.0",
-	"developer": "yourname",
+	"developer": "yazhu",
 	"description": "Record a run that beats a level, then count how many of your inputs are frame perfect.",
 	"settings": {
 		"analysis-speed": {
